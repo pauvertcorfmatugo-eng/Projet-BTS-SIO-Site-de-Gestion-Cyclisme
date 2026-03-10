@@ -1,6 +1,6 @@
-# 🚴‍♂️ Decap Velo - Application de Gestion de Cyclisme
+# Decap Velo - Application de Gestion de Cyclisme
 
-## 📝 Contexte du Projet
+## Contexte du Projet
 **Decap Velo** est une application web développée dans le cadre de mon **BTS SIO (Option SLAM)**. 
 L'objectif de ce projet est de concevoir un système d'information complet permettant de gérer les inscriptions de cyclistes à des clubs et leur participation à diverses courses régionales.
 
